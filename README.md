@@ -9,3 +9,5 @@
 4. Easy to type 'G$()' structure.
 
 5. Support jQuery.
+
+[Github page](https://myku0814.github.io/Greetr)
